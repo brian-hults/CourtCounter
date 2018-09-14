@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="team_a_name">Lakeside Wombats</string>
+    <string name="team_b_name">Highpoint Cougars</string>
+    <string name="score_count">0</string>
+    <string name="team_foul_text">Team Fouls:</string>
+    <string name="foul_count">0</string>
+    <string name="three_points">+3 Points</string>
+    <string name="two_points">+2 Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="team_foul_button">Team Foul</string>
+    <string name="reset_button">Reset</string>
+</resources>
